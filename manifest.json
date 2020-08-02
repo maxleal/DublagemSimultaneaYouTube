@@ -21,7 +21,7 @@
                 "js/jquery-3.3.1.min.js",
                 "js/chrome.js"
             ],
-            "run_ay": "document_end",
+            "run_at": "document_end",
             "persistent": false
         }
     ]
